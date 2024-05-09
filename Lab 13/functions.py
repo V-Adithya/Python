@@ -53,10 +53,10 @@ def second_minimum(list):
             second_minimum=element
     return second_minimum
 
-'''x,y=user_input() #Takes the user input(2 values)'''
-'''print("The sum of ",x,"and",y,"is:",add(x,y))#Prints the sum of the above variables'''
+#x,y=user_input() #Takes the user input(2 values)
+#print("The sum of ",x,"and",y,"is:",add(x,y))#Prints the sum of the above variables
 list=list()#Creates a list and adds elements to the list
-'''print("Minimum element in the list is:",minimum(list))#Finds the maximum element in the list'''
-'''print("Maximum element in the list is:",maximum(list))#Find the minimum element in the list'''
-'''print("Second maximum element in the list is:",second_maximum(list))#Find the second maximum element in the list'''
-'''print("Second minimum element in the list is:",second_minimum(list))#Find the second minimum element in the list'''
+#print("Minimum element in the list is:",minimum(list))#Finds the maximum element in the list
+#print("Maximum element in the list is:",maximum(list))#Find the minimum element in the list
+#print("Second maximum element in the list is:",second_maximum(list))#Find the second maximum element in the list
+#print("Second minimum element in the list is:",second_minimum(list))#Find the second minimum element in the list
